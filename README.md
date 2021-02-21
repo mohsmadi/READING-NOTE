@@ -1,5 +1,5 @@
 # READING-NOTE
-## growth mindset:
+## Growth Mindset:
 **In** simple word its you have trust in yourslf belive you can do anything you wanna do.
 
 
