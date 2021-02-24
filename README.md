@@ -18,3 +18,5 @@ internal controls. Excellent eye for detail useful in audit preparation and repo
 Name | link
 ------------ | -------------
  Markdown| [Markdown](https://mohsmadi.github.io/READING-NOTE/Markdown)
+ Rea06b| [Read02b](https://mohsmadi.github.io/READING-NOTE/Read06b)
+ README| [README](https://mohsmadi.github.io/READING-NOTE/README)
